@@ -1,0 +1,15 @@
+numpy
+scipy
+pandas
+bokeh
+netCDF4
+gdal
+matplotlib
+scikit-learn
+SALib
+git+https://github.com/hectornieto/pypro4sail
+git+https://github.com/radosuav/pydms
+git+https://github.com/hectornieto/pytseb
+git+https://github.com/hectornieto/cdsapi
+git+https://github.com/hectornieto/meteo_utils
+

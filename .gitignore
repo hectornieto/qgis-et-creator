@@ -79,4 +79,8 @@ Input/*.tif.*
 # PyCharm
 .idea/*
 
+# LaTeX
+*.aux
+*.dvi
+*.out
 
